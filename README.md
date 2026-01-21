@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Reddit Leads Tracker Logo" width="200"/>
+</p>
+
 # Reddit Leads Tracker - Make.com Blueprint
 
 This repository contains a **Make.com (formerly Integromat)** blueprint designed to automate the process of finding and tracking Android app testing leads from Reddit.
