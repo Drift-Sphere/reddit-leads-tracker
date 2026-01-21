@@ -6,6 +6,8 @@ This repository contains a **Make.com (formerly Integromat)** blueprint designed
 
 The workflow consists of four main steps:
 
+![Example Leads Tracker Result](example-leads.png)
+
 1.  **RSS Trigger**: Monitors new posts from a curated list of Reddit subreddits related to Android testing:
     *   `r/AndroidClosedTesting`
     *   `r/AndroidAppTesting`
